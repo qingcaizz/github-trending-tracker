@@ -27,7 +27,7 @@
 ## 安装
 
 ```bash
-npx skills add chenyuguang/github-trending-tracker@github-trending-tracker -g -y
+npx skills add qingcaizz/github-trending-tracker@github-trending-tracker -g -y
 ```
 
 ## 使用方法
