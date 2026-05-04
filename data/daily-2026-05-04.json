@@ -1,0 +1,156 @@
+{
+  "date": "2026-05-04",
+  "timeframe": "daily",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "language": "TypeScript",
+      "totalStars": "40,666",
+      "forks": "4,566",
+      "starsGained": 2594,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 2,
+      "name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "totalStars": "66,777",
+      "forks": "12,889",
+      "starsGained": 2181,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 3,
+      "name": "browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "language": "JavaScript",
+      "totalStars": "2,039",
+      "forks": "132",
+      "starsGained": 320,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 4,
+      "name": "Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "totalStars": "3,646",
+      "forks": "241",
+      "starsGained": 1277,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 5,
+      "name": "soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "totalStars": "24,556",
+      "forks": "1,722",
+      "starsGained": 1116,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 6,
+      "name": "qbittorrent/qBittorrent",
+      "description": "qBittorrent BitTorrent client",
+      "language": "C++",
+      "totalStars": "36,968",
+      "forks": "4,645",
+      "starsGained": 68,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 7,
+      "name": "czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "language": "TypeScript",
+      "totalStars": "19,810",
+      "forks": "3,259",
+      "starsGained": 497,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 8,
+      "name": "1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "totalStars": "3,782",
+      "forks": "354",
+      "starsGained": 545,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 9,
+      "name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "totalStars": "92,292",
+      "forks": "15,166",
+      "starsGained": 828,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 10,
+      "name": "virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "language": "TypeScript",
+      "totalStars": "23,003",
+      "forks": "2,819",
+      "starsGained": 497,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 11,
+      "name": "Flowseal/zapret-discord-youtube",
+      "description": "",
+      "language": "Batchfile",
+      "totalStars": "27,274",
+      "forks": "2,129",
+      "starsGained": 106,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 12,
+      "name": "fspecii/ace-step-ui",
+      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+      "language": "JavaScript",
+      "totalStars": "2,665",
+      "forks": "391",
+      "starsGained": 222,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 13,
+      "name": "jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend &amp; API",
+      "language": "C#",
+      "totalStars": "51,066",
+      "forks": "4,732",
+      "starsGained": 35,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 14,
+      "name": "cocoindex-io/cocoindex",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "language": "Python",
+      "totalStars": "7,850",
+      "forks": "578",
+      "starsGained": 204,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 15,
+      "name": "docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "totalStars": "12,962",
+      "forks": "1,181",
+      "starsGained": 316,
+      "gainPeriod": "today"
+    }
+  ]
+}
