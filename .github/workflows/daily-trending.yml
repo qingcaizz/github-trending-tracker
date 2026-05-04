@@ -1,26 +1,28 @@
 name: Daily GitHub Trending
 
 on:
+  schedule:
+    - cron: '0 12 * * *'
   workflow_dispatch:
 
 jobs:
-  debug:
+  trending:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Test fetch
-        run: |
-          echo '--- Testing github.com/trending ---'
-          curl -sL -o /tmp/trending.html -w 'HTTP %{http_code}' 'https://github.com/trending'
-          echo ''
-          echo 'File size:' $(wc -c < /tmp/trending.html)
-          echo 'First 500 chars:'
-          head -c 500 /tmp/trending.html
-          echo ''
-          echo '--- Box-row count ---'
-          grep -c 'Box-row' /tmp/trending.html || echo '0 matches'
-          echo '--- Running fetch script ---'
-          DATA_DIR=./data node scripts/fetch-trending.js
-          echo '--- Result ---'
-          ls -la data/ 2>&1 || echo 'no data dir'
-          cat data/daily-*.json 2>/dev/null | head -c 500 || echo 'no daily json'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Fetch trending data
+        run: node scripts/fetch-trending.js
+        env:
+          DATA_DIR: ./data
+      - name: Generate report
+        run: node scripts/generate-report.js
+        env:
+          DATA_DIR: ./data
+          REPORT_DIR: ./reports
+      - name: Commit via API
+        run: node scripts/commit-api.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
