@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-05",
+  "timeframe": "monthly",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "totalStars": "112,892",
+      "forks": "11,298",
+      "starsGained": 103293,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 2,
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "totalStars": "133,531",
+      "forks": "20,365",
+      "starsGained": 108507,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 3,
+      "name": "multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "TypeScript",
+      "totalStars": "24,620",
+      "forks": "3,002",
+      "starsGained": 22432,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 4,
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "totalStars": "60,076",
+      "forks": "5,180",
+      "starsGained": 46450,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 5,
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "Python",
+      "totalStars": "19,823",
+      "forks": "2,661",
+      "starsGained": 17030,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 6,
+      "name": "Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "language": "Python",
+      "totalStars": "21,413",
+      "forks": "3,089",
+      "starsGained": 19618,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 7,
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "totalStars": "28,433",
+      "forks": "3,488",
+      "starsGained": 27045,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 8,
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "totalStars": "22,863",
+      "forks": "4,009",
+      "starsGained": 11354,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 9,
+      "name": "coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "language": "TypeScript",
+      "totalStars": "20,800",
+      "forks": "3,177",
+      "starsGained": 6963,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 10,
+      "name": "HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "language": "Python",
+      "totalStars": "23,312",
+      "forks": "3,099",
+      "starsGained": 12356,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 11,
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "totalStars": "120,595",
+      "forks": "8,053",
+      "starsGained": 27415,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 12,
+      "name": "lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "language": "Python",
+      "totalStars": "9,159",
+      "forks": "1,058",
+      "starsGained": 8239,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 13,
+      "name": "AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "language": "Python",
+      "totalStars": "11,310",
+      "forks": "1,752",
+      "starsGained": 7257,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 14,
+      "name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "totalStars": "72,254",
+      "forks": "6,203",
+      "starsGained": 27271,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 15,
+      "name": "hugohe3/ppt-master",
+      "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He",
+      "language": "Python",
+      "totalStars": "11,499",
+      "forks": "1,203",
+      "starsGained": 7808,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 16,
+      "name": "Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "totalStars": "71,691",
+      "forks": "8,095",
+      "starsGained": 13759,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 17,
+      "name": "ComposioHQ/awesome-codex-skills",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "language": "Python",
+      "totalStars": "6,716",
+      "forks": "439",
+      "starsGained": 5716,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 18,
+      "name": "rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "language": "Rust",
+      "totalStars": "41,891",
+      "forks": "2,543",
+      "starsGained": 23950,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 19,
+      "name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "totalStars": "68,705",
+      "forks": "13,204",
+      "starsGained": 20250,
+      "gainPeriod": "this month"
+    }
+  ]
+}
