@@ -1,0 +1,186 @@
+{
+  "date": "2026-05-08",
+  "timeframe": "monthly",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "totalStars": "120,010",
+      "forks": "12,103",
+      "starsGained": 110765,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 2,
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "totalStars": "138,600",
+      "forks": "21,368",
+      "starsGained": 107836,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 3,
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "totalStars": "65,974",
+      "forks": "5,672",
+      "starsGained": 51703,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 4,
+      "name": "Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "language": "Python",
+      "totalStars": "22,608",
+      "forks": "3,265",
+      "starsGained": 20653,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 5,
+      "name": "multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "TypeScript",
+      "totalStars": "26,134",
+      "forks": "3,170",
+      "starsGained": 23598,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 6,
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "totalStars": "23,601",
+      "forks": "4,121",
+      "starsGained": 11923,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 7,
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "totalStars": "34,117",
+      "forks": "3,915",
+      "starsGained": 24596,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 8,
+      "name": "lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "language": "Python",
+      "totalStars": "9,681",
+      "forks": "1,120",
+      "starsGained": 8612,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 9,
+      "name": "AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "language": "Python",
+      "totalStars": "13,630",
+      "forks": "2,037",
+      "starsGained": 9860,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 10,
+      "name": "OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "totalStars": "17,705",
+      "forks": "2,100",
+      "starsGained": 11325,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 11,
+      "name": "coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "language": "TypeScript",
+      "totalStars": "21,050",
+      "forks": "3,209",
+      "starsGained": 7217,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 12,
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "totalStars": "121,798",
+      "forks": "8,188",
+      "starsGained": 28421,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 13,
+      "name": "Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "totalStars": "72,873",
+      "forks": "8,233",
+      "starsGained": 14951,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 14,
+      "name": "ComposioHQ/awesome-codex-skills",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "language": "Python",
+      "totalStars": "7,584",
+      "forks": "498",
+      "starsGained": 6721,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 15,
+      "name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "totalStars": "73,601",
+      "forks": "6,320",
+      "starsGained": 27756,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 16,
+      "name": "hugohe3/ppt-master",
+      "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He",
+      "language": "Python",
+      "totalStars": "13,297",
+      "forks": "1,357",
+      "starsGained": 8926,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 17,
+      "name": "soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "totalStars": "26,466",
+      "forks": "1,852",
+      "starsGained": 7142,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 18,
+      "name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "totalStars": "71,538",
+      "forks": "13,868",
+      "starsGained": 23198,
+      "gainPeriod": "this month"
+    }
+  ]
+}
