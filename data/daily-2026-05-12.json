@@ -1,0 +1,116 @@
+{
+  "date": "2026-05-12",
+  "timeframe": "daily",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "totalStars": "2,107",
+      "forks": "217",
+      "starsGained": 1042,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 2,
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "totalStars": "5,381",
+      "forks": "509",
+      "starsGained": 1067,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 3,
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "totalStars": "7,165",
+      "forks": "525",
+      "starsGained": 1589,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 4,
+      "name": "apernet/hysteria",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "language": "Go",
+      "totalStars": "20,029",
+      "forks": "2,085",
+      "starsGained": 28,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 5,
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "totalStars": "74,830",
+      "forks": "6,457",
+      "starsGained": 3886,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 6,
+      "name": "anonfaded/FadCam",
+      "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
+      "language": "Java",
+      "totalStars": "2,075",
+      "forks": "163",
+      "starsGained": 111,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 7,
+      "name": "millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "language": "TypeScript",
+      "totalStars": "8,496",
+      "forks": "273",
+      "starsGained": 804,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 8,
+      "name": "rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "language": "Jupyter Notebook",
+      "totalStars": "93,436",
+      "forks": "14,392",
+      "starsGained": 776,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 9,
+      "name": "datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "language": "Python",
+      "totalStars": "47,995",
+      "forks": "5,774",
+      "starsGained": 1248,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 10,
+      "name": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "totalStars": "11,556",
+      "forks": "2,065",
+      "starsGained": 1264,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 11,
+      "name": "HKUDS/AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "language": "Python",
+      "totalStars": "16,296",
+      "forks": "2,596",
+      "starsGained": 801,
+      "gainPeriod": "today"
+    }
+  ]
+}
