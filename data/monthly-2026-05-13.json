@@ -1,0 +1,166 @@
+{
+  "date": "2026-05-13",
+  "timeframe": "monthly",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "totalStars": "128,003",
+      "forks": "12,994",
+      "starsGained": 112357,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 2,
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "totalStars": "78,092",
+      "forks": "6,733",
+      "starsGained": 60612,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 3,
+      "name": "Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "language": "Python",
+      "totalStars": "24,277",
+      "forks": "3,596",
+      "starsGained": 22285,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 4,
+      "name": "lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "language": "Python",
+      "totalStars": "11,172",
+      "forks": "1,277",
+      "starsGained": 10192,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 5,
+      "name": "AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "language": "Python",
+      "totalStars": "15,961",
+      "forks": "2,291",
+      "starsGained": 12025,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 6,
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "totalStars": "148,079",
+      "forks": "23,288",
+      "starsGained": 84327,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 7,
+      "name": "ComposioHQ/awesome-codex-skills",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "language": "Python",
+      "totalStars": "9,029",
+      "forks": "753",
+      "starsGained": 7910,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 8,
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "totalStars": "40,817",
+      "forks": "4,498",
+      "starsGained": 27115,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 9,
+      "name": "Tracer-Cloud/opensre",
+      "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
+      "language": "Python",
+      "totalStars": "4,961",
+      "forks": "625",
+      "starsGained": 4343,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 10,
+      "name": "Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "totalStars": "74,027",
+      "forks": "8,353",
+      "starsGained": 16078,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 11,
+      "name": "soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "totalStars": "28,326",
+      "forks": "2,040",
+      "starsGained": 8676,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 12,
+      "name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "totalStars": "74,755",
+      "forks": "14,572",
+      "starsGained": 24880,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 13,
+      "name": "anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "totalStars": "22,034",
+      "forks": "2,970",
+      "starsGained": 13692,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 14,
+      "name": "Anil-matcha/Open-Generative-AI",
+      "description": "Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "language": "JavaScript",
+      "totalStars": "13,115",
+      "forks": "2,314",
+      "starsGained": 8544,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 15,
+      "name": "multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "TypeScript",
+      "totalStars": "27,973",
+      "forks": "3,357",
+      "starsGained": 19082,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 16,
+      "name": "hugohe3/ppt-master",
+      "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He",
+      "language": "Python",
+      "totalStars": "15,756",
+      "forks": "1,542",
+      "starsGained": 10574,
+      "gainPeriod": "this month"
+    }
+  ]
+}
