@@ -1,0 +1,146 @@
+{
+  "date": "2026-05-15",
+  "timeframe": "weekly",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "totalStars": "23,052",
+      "forks": "3,172",
+      "starsGained": 12529,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 2,
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "totalStars": "11,574",
+      "forks": "869",
+      "starsGained": 8404,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 3,
+      "name": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "totalStars": "13,979",
+      "forks": "2,361",
+      "starsGained": 4412,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 4,
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "totalStars": "9,411",
+      "forks": "781",
+      "starsGained": 6467,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 5,
+      "name": "bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "totalStars": "34,032",
+      "forks": "3,380",
+      "starsGained": 4184,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 6,
+      "name": "decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "totalStars": "10,520",
+      "forks": "1,615",
+      "starsGained": 6024,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 7,
+      "name": "Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "totalStars": "29,646",
+      "forks": "2,474",
+      "starsGained": 11303,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 8,
+      "name": "HKUDS/AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "language": "Python",
+      "totalStars": "17,320",
+      "forks": "2,667",
+      "starsGained": 3013,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 9,
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "totalStars": "84,052",
+      "forks": "7,286",
+      "starsGained": 17059,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 10,
+      "name": "playcanvas/supersplat",
+      "description": "3D Gaussian Splat Editor",
+      "language": "TypeScript",
+      "totalStars": "8,019",
+      "forks": "870",
+      "starsGained": 2866,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 11,
+      "name": "apernet/hysteria",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "language": "Go",
+      "totalStars": "20,820",
+      "forks": "2,147",
+      "starsGained": 874,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 12,
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "totalStars": "56,974",
+      "forks": "7,498",
+      "starsGained": 3517,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 13,
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "totalStars": "41,874",
+      "forks": "4,599",
+      "starsGained": 9198,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 14,
+      "name": "datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "language": "JavaScript",
+      "totalStars": "11,027",
+      "forks": "1,029",
+      "starsGained": 3096,
+      "gainPeriod": "this week"
+    }
+  ]
+}
