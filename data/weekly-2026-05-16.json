@@ -1,0 +1,146 @@
+{
+  "date": "2026-05-16",
+  "timeframe": "weekly",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "totalStars": "12,263",
+      "forks": "945",
+      "starsGained": 9120,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 2,
+      "name": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "totalStars": "14,190",
+      "forks": "2,389",
+      "starsGained": 4762,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 3,
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "totalStars": "9,963",
+      "forks": "828",
+      "starsGained": 6865,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 4,
+      "name": "anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "totalStars": "23,571",
+      "forks": "3,238",
+      "starsGained": 9480,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 5,
+      "name": "bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "totalStars": "34,172",
+      "forks": "3,404",
+      "starsGained": 3529,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 6,
+      "name": "decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "totalStars": "10,911",
+      "forks": "1,681",
+      "starsGained": 5377,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 7,
+      "name": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "totalStars": "90,811",
+      "forks": "4,523",
+      "starsGained": 940,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 8,
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "totalStars": "86,009",
+      "forks": "7,469",
+      "starsGained": 18278,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 9,
+      "name": "Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "totalStars": "30,214",
+      "forks": "2,530",
+      "starsGained": 8701,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 10,
+      "name": "HKUDS/AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "language": "Python",
+      "totalStars": "17,473",
+      "forks": "2,691",
+      "starsGained": 3004,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 11,
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "totalStars": "57,914",
+      "forks": "7,577",
+      "starsGained": 4963,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 12,
+      "name": "apernet/hysteria",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "language": "Go",
+      "totalStars": "20,910",
+      "forks": "2,153",
+      "starsGained": 952,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 13,
+      "name": "millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "language": "TypeScript",
+      "totalStars": "9,714",
+      "forks": "303",
+      "starsGained": 3314,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 14,
+      "name": "playcanvas/supersplat",
+      "description": "3D Gaussian Splat Editor",
+      "language": "TypeScript",
+      "totalStars": "8,106",
+      "forks": "873",
+      "starsGained": 2571,
+      "gainPeriod": "this week"
+    }
+  ]
+}
