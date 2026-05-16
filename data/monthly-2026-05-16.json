@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-16",
+  "timeframe": "monthly",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "totalStars": "86,009",
+      "forks": "7,469",
+      "starsGained": 69142,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 2,
+      "name": "Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "language": "Python",
+      "totalStars": "24,920",
+      "forks": "3,707",
+      "starsGained": 22992,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 3,
+      "name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "totalStars": "131,750",
+      "forks": "13,420",
+      "starsGained": 91995,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 4,
+      "name": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "totalStars": "18,525",
+      "forks": "1,729",
+      "starsGained": 18559,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 5,
+      "name": "AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "language": "Python",
+      "totalStars": "17,263",
+      "forks": "2,496",
+      "starsGained": 13040,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 6,
+      "name": "ComposioHQ/awesome-codex-skills",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "language": "Python",
+      "totalStars": "9,962",
+      "forks": "934",
+      "starsGained": 9051,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 7,
+      "name": "anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "totalStars": "23,571",
+      "forks": "3,238",
+      "starsGained": 15671,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 8,
+      "name": "Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "totalStars": "74,875",
+      "forks": "8,454",
+      "starsGained": 16836,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 9,
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "totalStars": "42,311",
+      "forks": "4,645",
+      "starsGained": 26378,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 10,
+      "name": "soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "totalStars": "28,914",
+      "forks": "2,075",
+      "starsGained": 9406,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 11,
+      "name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "totalStars": "76,013",
+      "forks": "14,795",
+      "starsGained": 25571,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 12,
+      "name": "thunderbird/thunderbolt",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "language": "TypeScript",
+      "totalStars": "4,577",
+      "forks": "311",
+      "starsGained": 4594,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 13,
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "totalStars": "152,785",
+      "forks": "24,298",
+      "starsGained": 64550,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 14,
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "totalStars": "12,263",
+      "forks": "945",
+      "starsGained": 10339,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 15,
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "totalStars": "9,963",
+      "forks": "828",
+      "starsGained": 7834,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 16,
+      "name": "Anil-matcha/Open-Generative-AI",
+      "description": "Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "language": "JavaScript",
+      "totalStars": "14,095",
+      "forks": "2,480",
+      "starsGained": 9079,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 17,
+      "name": "zilliztech/claude-context",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "language": "TypeScript",
+      "totalStars": "11,171",
+      "forks": "832",
+      "starsGained": 5221,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 18,
+      "name": "Tracer-Cloud/opensre",
+      "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
+      "language": "Python",
+      "totalStars": "5,219",
+      "forks": "652",
+      "starsGained": 4345,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 19,
+      "name": "decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "totalStars": "10,911",
+      "forks": "1,681",
+      "starsGained": 8091,
+      "gainPeriod": "this month"
+    }
+  ]
+}
