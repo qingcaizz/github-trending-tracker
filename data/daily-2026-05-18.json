@@ -1,0 +1,156 @@
+{
+  "date": "2026-05-18",
+  "timeframe": "daily",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "totalStars": "16,035",
+      "forks": "1,378",
+      "starsGained": 3945,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 2,
+      "name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "totalStars": "10,789",
+      "forks": "1,142",
+      "starsGained": 1302,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 3,
+      "name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "totalStars": "36,377",
+      "forks": "3,532",
+      "starsGained": 1047,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 4,
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "totalStars": "24,211",
+      "forks": "2,565",
+      "starsGained": 610,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 5,
+      "name": "supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "totalStars": "8,095",
+      "forks": "828",
+      "starsGained": 827,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 6,
+      "name": "ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "totalStars": "110,814",
+      "forks": "18,344",
+      "starsGained": 179,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 7,
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "totalStars": "59,617",
+      "forks": "7,783",
+      "starsGained": 963,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 8,
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "totalStars": "14,722",
+      "forks": "1,153",
+      "starsGained": 1391,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 9,
+      "name": "tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "totalStars": "3,863",
+      "forks": "340",
+      "starsGained": 1244,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 10,
+      "name": "BigBodyCobain/Shadowbroker",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "language": "Python",
+      "totalStars": "7,545",
+      "forks": "1,174",
+      "starsGained": 768,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 11,
+      "name": "humanlayer/12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "language": "TypeScript",
+      "totalStars": "20,314",
+      "forks": "1,539",
+      "starsGained": 359,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 12,
+      "name": "NVlabs/Sana",
+      "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+      "language": "Python",
+      "totalStars": "6,352",
+      "forks": "449",
+      "starsGained": 472,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 13,
+      "name": "microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "totalStars": "63,196",
+      "forks": "21,146",
+      "starsGained": 1013,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 14,
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "language": "Python",
+      "totalStars": "36,857",
+      "forks": "36,103",
+      "starsGained": 290,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 15,
+      "name": "plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "language": "Elixir",
+      "totalStars": "25,773",
+      "forks": "1,486",
+      "starsGained": 637,
+      "gainPeriod": "today"
+    }
+  ]
+}
