@@ -1,0 +1,136 @@
+{
+  "date": "2026-05-18",
+  "timeframe": "weekly",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "totalStars": "14,722",
+      "forks": "1,153",
+      "starsGained": 9007,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 2,
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "totalStars": "12,109",
+      "forks": "1,029",
+      "starsGained": 7103,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 3,
+      "name": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "totalStars": "91,899",
+      "forks": "4,591",
+      "starsGained": 2098,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 4,
+      "name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "totalStars": "10,789",
+      "forks": "1,142",
+      "starsGained": 3624,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 5,
+      "name": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "totalStars": "15,098",
+      "forks": "2,486",
+      "starsGained": 4687,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 6,
+      "name": "anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "totalStars": "25,115",
+      "forks": "3,472",
+      "starsGained": 5977,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 7,
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "totalStars": "91,141",
+      "forks": "7,984",
+      "starsGained": 19679,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 8,
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "totalStars": "59,617",
+      "forks": "7,783",
+      "starsGained": 6733,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 9,
+      "name": "millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "language": "TypeScript",
+      "totalStars": "10,092",
+      "forks": "322",
+      "starsGained": 2430,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 10,
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "totalStars": "4,241",
+      "forks": "297",
+      "starsGained": 1935,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 11,
+      "name": "apernet/hysteria",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "language": "Go",
+      "totalStars": "21,193",
+      "forks": "2,179",
+      "starsGained": 1124,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 12,
+      "name": "facebook/pyrefly",
+      "description": "A fast type checker and language server for Python",
+      "language": "Rust",
+      "totalStars": "6,178",
+      "forks": "367",
+      "starsGained": 394,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 13,
+      "name": "bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "totalStars": "34,574",
+      "forks": "3,465",
+      "starsGained": 2563,
+      "gainPeriod": "this week"
+    }
+  ]
+}
