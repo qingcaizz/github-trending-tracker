@@ -1,0 +1,156 @@
+{
+  "date": "2026-05-19",
+  "timeframe": "weekly",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "totalStars": "19,937",
+      "forks": "1,756",
+      "starsGained": 15349,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 2,
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "totalStars": "13,750",
+      "forks": "1,156",
+      "starsGained": 7830,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 3,
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "totalStars": "16,134",
+      "forks": "1,252",
+      "starsGained": 9124,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 4,
+      "name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "totalStars": "13,702",
+      "forks": "1,300",
+      "starsGained": 4402,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 5,
+      "name": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "totalStars": "92,029",
+      "forks": "4,605",
+      "starsGained": 2350,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 6,
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "totalStars": "60,463",
+      "forks": "7,882",
+      "starsGained": 7217,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 7,
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "totalStars": "93,700",
+      "forks": "8,241",
+      "starsGained": 20361,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 8,
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "totalStars": "5,948",
+      "forks": "404",
+      "starsGained": 2690,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 9,
+      "name": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "totalStars": "15,433",
+      "forks": "2,517",
+      "starsGained": 4851,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 10,
+      "name": "facebook/pyrefly",
+      "description": "A fast type checker and language server for Python",
+      "language": "Rust",
+      "totalStars": "6,256",
+      "forks": "370",
+      "starsGained": 481,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 11,
+      "name": "anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "totalStars": "25,792",
+      "forks": "3,577",
+      "starsGained": 5259,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 12,
+      "name": "BigBodyCobain/Shadowbroker",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "language": "Python",
+      "totalStars": "8,117",
+      "forks": "1,233",
+      "starsGained": 1376,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 13,
+      "name": "millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "language": "TypeScript",
+      "totalStars": "10,288",
+      "forks": "329",
+      "starsGained": 2453,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 14,
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "totalStars": "197,909",
+      "forks": "17,658",
+      "starsGained": 10476,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 15,
+      "name": "apernet/hysteria",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "language": "Go",
+      "totalStars": "21,322",
+      "forks": "2,186",
+      "starsGained": 1254,
+      "gainPeriod": "this week"
+    }
+  ]
+}
