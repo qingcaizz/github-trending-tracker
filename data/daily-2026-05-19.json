@@ -1,0 +1,186 @@
+{
+  "date": "2026-05-19",
+  "timeframe": "daily",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "totalStars": "19,937",
+      "forks": "1,756",
+      "starsGained": 3991,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 2,
+      "name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "totalStars": "37,425",
+      "forks": "3,589",
+      "starsGained": 1027,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 3,
+      "name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "totalStars": "13,702",
+      "forks": "1,300",
+      "starsGained": 3184,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 4,
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "totalStars": "197,909",
+      "forks": "17,658",
+      "starsGained": 1620,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 5,
+      "name": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "totalStars": "19,914",
+      "forks": "2,495",
+      "starsGained": 127,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 6,
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "totalStars": "13,750",
+      "forks": "1,156",
+      "starsGained": 1626,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 7,
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "totalStars": "16,134",
+      "forks": "1,252",
+      "starsGained": 1466,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 8,
+      "name": "rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "language": "Rust",
+      "totalStars": "50,497",
+      "forks": "3,083",
+      "starsGained": 667,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 9,
+      "name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "totalStars": "100,923",
+      "forks": "16,716",
+      "starsGained": 983,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 10,
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "totalStars": "5,948",
+      "forks": "404",
+      "starsGained": 1869,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 11,
+      "name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "totalStars": "137,315",
+      "forks": "14,079",
+      "starsGained": 2014,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 12,
+      "name": "humanlayer/12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "language": "TypeScript",
+      "totalStars": "21,015",
+      "forks": "1,587",
+      "starsGained": 733,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 13,
+      "name": "Diolinux/PhotoGIMP",
+      "description": "A Patch for GIMP 3+ for Photoshop Users",
+      "language": "CSS",
+      "totalStars": "10,542",
+      "forks": "366",
+      "starsGained": 930,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 14,
+      "name": "Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "language": "Python",
+      "totalStars": "26,034",
+      "forks": "3,886",
+      "starsGained": 543,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 15,
+      "name": "pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "totalStars": "15,752",
+      "forks": "2,075",
+      "starsGained": 88,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 16,
+      "name": "frappe/erpnext",
+      "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+      "language": "Python",
+      "totalStars": "34,103",
+      "forks": "11,302",
+      "starsGained": 65,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 17,
+      "name": "microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "totalStars": "64,024",
+      "forks": "21,249",
+      "starsGained": 820,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 18,
+      "name": "HKUDS/ViMax",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "language": "Python",
+      "totalStars": "5,177",
+      "forks": "902",
+      "starsGained": 504,
+      "gainPeriod": "today"
+    }
+  ]
+}
