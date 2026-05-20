@@ -1,0 +1,146 @@
+{
+  "date": "2026-05-20",
+  "timeframe": "weekly",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "totalStars": "23,174",
+      "forks": "2,063",
+      "starsGained": 17793,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 2,
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "totalStars": "14,803",
+      "forks": "1,226",
+      "starsGained": 8390,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 3,
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "totalStars": "8,133",
+      "forks": "519",
+      "starsGained": 4650,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 4,
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "totalStars": "17,328",
+      "forks": "1,346",
+      "starsGained": 8997,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 5,
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "totalStars": "61,450",
+      "forks": "8,060",
+      "starsGained": 8076,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 6,
+      "name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "totalStars": "15,381",
+      "forks": "1,412",
+      "starsGained": 7443,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 7,
+      "name": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "totalStars": "92,121",
+      "forks": "4,612",
+      "starsGained": 2438,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 8,
+      "name": "facebook/pyrefly",
+      "description": "A fast type checker and language server for Python",
+      "language": "Rust",
+      "totalStars": "6,326",
+      "forks": "371",
+      "starsGained": 568,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 9,
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "totalStars": "96,267",
+      "forks": "8,487",
+      "starsGained": 19038,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 10,
+      "name": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "totalStars": "15,704",
+      "forks": "2,557",
+      "starsGained": 3926,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 11,
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "totalStars": "199,592",
+      "forks": "17,796",
+      "starsGained": 10577,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 12,
+      "name": "datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "language": "JavaScript",
+      "totalStars": "13,449",
+      "forks": "1,289",
+      "starsGained": 2859,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 13,
+      "name": "millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "language": "TypeScript",
+      "totalStars": "10,407",
+      "forks": "333",
+      "starsGained": 1796,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 14,
+      "name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "totalStars": "138,075",
+      "forks": "16,278",
+      "starsGained": 4763,
+      "gainPeriod": "this week"
+    }
+  ]
+}
