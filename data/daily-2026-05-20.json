@@ -1,0 +1,176 @@
+{
+  "date": "2026-05-20",
+  "timeframe": "daily",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "totalStars": "8,133",
+      "forks": "519",
+      "starsGained": 1910,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 2,
+      "name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "totalStars": "15,381",
+      "forks": "1,412",
+      "starsGained": 1639,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 3,
+      "name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "totalStars": "23,174",
+      "forks": "2,063",
+      "starsGained": 3603,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 4,
+      "name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "totalStars": "139,965",
+      "forks": "14,359",
+      "starsGained": 2620,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 5,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "totalStars": "9,096",
+      "forks": "1,879",
+      "starsGained": 762,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 6,
+      "name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "totalStars": "38,291",
+      "forks": "3,648",
+      "starsGained": 930,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 7,
+      "name": "can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "totalStars": "5,243",
+      "forks": "450",
+      "starsGained": 237,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 8,
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "totalStars": "199,592",
+      "forks": "17,796",
+      "starsGained": 1776,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 9,
+      "name": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "totalStars": "20,568",
+      "forks": "2,530",
+      "starsGained": 706,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 10,
+      "name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "totalStars": "102,467",
+      "forks": "16,900",
+      "starsGained": 1714,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 11,
+      "name": "rmyndharis/OpenWA",
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "language": "TypeScript",
+      "totalStars": "4,517",
+      "forks": "917",
+      "starsGained": 1870,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 12,
+      "name": "truelockmc/streambert",
+      "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
+      "language": "JavaScript",
+      "totalStars": "2,576",
+      "forks": "220",
+      "starsGained": 925,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 13,
+      "name": "opentoonz/opentoonz",
+      "description": "OpenToonz - An open-source full-featured 2D animation creation software",
+      "language": "C++",
+      "totalStars": "6,175",
+      "forks": "718",
+      "starsGained": 206,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 14,
+      "name": "zakirullin/files.md",
+      "description": "🌱 Private, quiet space for thinking. A simple app for your .md files.",
+      "language": "Go",
+      "totalStars": "2,040",
+      "forks": "49",
+      "starsGained": 468,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 15,
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "totalStars": "14,803",
+      "forks": "1,226",
+      "starsGained": 1121,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 16,
+      "name": "ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "totalStars": "111,659",
+      "forks": "18,482",
+      "starsGained": 549,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 17,
+      "name": "HKUDS/ViMax",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "language": "Python",
+      "totalStars": "5,840",
+      "forks": "968",
+      "starsGained": 692,
+      "gainPeriod": "today"
+    }
+  ]
+}
