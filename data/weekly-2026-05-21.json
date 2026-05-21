@@ -1,0 +1,146 @@
+{
+  "date": "2026-05-21",
+  "timeframe": "weekly",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "totalStars": "24,525",
+      "forks": "2,198",
+      "starsGained": 19177,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 2,
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "totalStars": "12,327",
+      "forks": "714",
+      "starsGained": 6731,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 3,
+      "name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "totalStars": "17,823",
+      "forks": "1,532",
+      "starsGained": 8737,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 4,
+      "name": "supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "totalStars": "9,086",
+      "forks": "931",
+      "starsGained": 4986,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 5,
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "totalStars": "15,600",
+      "forks": "1,293",
+      "starsGained": 7976,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 6,
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "totalStars": "18,036",
+      "forks": "1,424",
+      "starsGained": 8348,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 7,
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "totalStars": "62,684",
+      "forks": "8,253",
+      "starsGained": 8028,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 8,
+      "name": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "totalStars": "92,182",
+      "forks": "4,621",
+      "starsGained": 2472,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 9,
+      "name": "humanlayer/12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "language": "TypeScript",
+      "totalStars": "21,500",
+      "forks": "1,619",
+      "starsGained": 1644,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 10,
+      "name": "datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "language": "JavaScript",
+      "totalStars": "13,709",
+      "forks": "1,313",
+      "starsGained": 2984,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 11,
+      "name": "facebook/pyrefly",
+      "description": "A fast type checker and language server for Python",
+      "language": "Rust",
+      "totalStars": "6,370",
+      "forks": "377",
+      "starsGained": 629,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 12,
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "totalStars": "201,121",
+      "forks": "17,917",
+      "starsGained": 10851,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 13,
+      "name": "HKUDS/ViMax",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "language": "Python",
+      "totalStars": "6,380",
+      "forks": "1,010",
+      "starsGained": 2028,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 14,
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "totalStars": "98,382",
+      "forks": "8,701",
+      "starsGained": 18368,
+      "gainPeriod": "this week"
+    }
+  ]
+}
