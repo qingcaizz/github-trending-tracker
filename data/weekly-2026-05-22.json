@@ -1,0 +1,156 @@
+{
+  "date": "2026-05-22",
+  "timeframe": "weekly",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "totalStars": "15,755",
+      "forks": "865",
+      "starsGained": 10749,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 2,
+      "name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "totalStars": "25,466",
+      "forks": "2,325",
+      "starsGained": 17399,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 3,
+      "name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "totalStars": "18,847",
+      "forks": "1,619",
+      "starsGained": 10737,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 4,
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "totalStars": "63,601",
+      "forks": "8,413",
+      "starsGained": 7636,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 5,
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "totalStars": "16,230",
+      "forks": "1,335",
+      "starsGained": 7000,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 6,
+      "name": "supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "totalStars": "9,315",
+      "forks": "956",
+      "starsGained": 4120,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 7,
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "totalStars": "18,566",
+      "forks": "1,472",
+      "starsGained": 7769,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 8,
+      "name": "HKUDS/ViMax",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "language": "Python",
+      "totalStars": "6,628",
+      "forks": "1,047",
+      "starsGained": 2495,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 9,
+      "name": "humanlayer/12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "language": "TypeScript",
+      "totalStars": "21,690",
+      "forks": "1,629",
+      "starsGained": 1729,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 10,
+      "name": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "totalStars": "92,266",
+      "forks": "4,633",
+      "starsGained": 2377,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 11,
+      "name": "datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "language": "JavaScript",
+      "totalStars": "13,939",
+      "forks": "1,328",
+      "starsGained": 2979,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 12,
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "totalStars": "202,505",
+      "forks": "18,035",
+      "starsGained": 10688,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 13,
+      "name": "facebook/pyrefly",
+      "description": "A fast type checker and language server for Python",
+      "language": "Rust",
+      "totalStars": "6,429",
+      "forks": "380",
+      "starsGained": 572,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 14,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "totalStars": "11,362",
+      "forks": "2,183",
+      "starsGained": 2898,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 15,
+      "name": "Stremio/stremio-web",
+      "description": "Stremio - Freedom to Stream",
+      "language": "JavaScript",
+      "totalStars": "11,604",
+      "forks": "1,280",
+      "starsGained": 643,
+      "gainPeriod": "this week"
+    }
+  ]
+}
