@@ -1,0 +1,156 @@
+{
+  "date": "2026-05-23",
+  "timeframe": "weekly",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "totalStars": "18,049",
+      "forks": "999",
+      "starsGained": 14072,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 2,
+      "name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "totalStars": "26,044",
+      "forks": "2,387",
+      "starsGained": 17124,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 3,
+      "name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "totalStars": "19,420",
+      "forks": "1,665",
+      "starsGained": 11550,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 4,
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "totalStars": "64,420",
+      "forks": "8,510",
+      "starsGained": 6773,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 5,
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "totalStars": "16,609",
+      "forks": "1,367",
+      "starsGained": 6891,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 6,
+      "name": "supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "totalStars": "9,644",
+      "forks": "993",
+      "starsGained": 3621,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 7,
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "totalStars": "19,210",
+      "forks": "1,520",
+      "starsGained": 7042,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 8,
+      "name": "HKUDS/ViMax",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "language": "Python",
+      "totalStars": "6,830",
+      "forks": "1,079",
+      "starsGained": 2685,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 9,
+      "name": "humanlayer/12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "language": "TypeScript",
+      "totalStars": "21,834",
+      "forks": "1,640",
+      "starsGained": 1907,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 10,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "totalStars": "12,844",
+      "forks": "2,407",
+      "starsGained": 3715,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 11,
+      "name": "datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "language": "JavaScript",
+      "totalStars": "14,140",
+      "forks": "1,344",
+      "starsGained": 2942,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 12,
+      "name": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "totalStars": "19,822",
+      "forks": "1,795",
+      "starsGained": 4680,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 13,
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "totalStars": "203,542",
+      "forks": "18,126",
+      "starsGained": 10497,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 14,
+      "name": "can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "totalStars": "6,605",
+      "forks": "535",
+      "starsGained": 1762,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 15,
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "totalStars": "25,273",
+      "forks": "2,655",
+      "starsGained": 2977,
+      "gainPeriod": "this week"
+    }
+  ]
+}
