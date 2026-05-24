@@ -1,0 +1,176 @@
+{
+  "date": "2026-05-24",
+  "timeframe": "weekly",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "totalStars": "20,997",
+      "forks": "1,170",
+      "starsGained": 15909,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 2,
+      "name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "totalStars": "26,784",
+      "forks": "2,480",
+      "starsGained": 16288,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 3,
+      "name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "totalStars": "20,243",
+      "forks": "1,725",
+      "starsGained": 11691,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 4,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "totalStars": "14,708",
+      "forks": "2,697",
+      "starsGained": 5026,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 5,
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "totalStars": "65,100",
+      "forks": "8,613",
+      "starsGained": 6741,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 6,
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "totalStars": "17,121",
+      "forks": "1,403",
+      "starsGained": 6734,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 7,
+      "name": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "totalStars": "23,816",
+      "forks": "2,102",
+      "starsGained": 4880,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 8,
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "totalStars": "19,983",
+      "forks": "1,578",
+      "starsGained": 6991,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 9,
+      "name": "supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "totalStars": "9,990",
+      "forks": "1,022",
+      "starsGained": 3281,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 10,
+      "name": "can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "totalStars": "6,933",
+      "forks": "561",
+      "starsGained": 2073,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 11,
+      "name": "datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "language": "JavaScript",
+      "totalStars": "14,394",
+      "forks": "1,371",
+      "starsGained": 2711,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 12,
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "totalStars": "204,534",
+      "forks": "18,215",
+      "starsGained": 10367,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 13,
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "totalStars": "25,524",
+      "forks": "2,667",
+      "starsGained": 2522,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 14,
+      "name": "stablyai/orca",
+      "description": "Orca is the next-gen ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
+      "totalStars": "3,172",
+      "forks": "217",
+      "starsGained": 563,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 15,
+      "name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "totalStars": "39,948",
+      "forks": "3,770",
+      "starsGained": 4773,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 16,
+      "name": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "totalStars": "16,215",
+      "forks": "2,623",
+      "starsGained": 1929,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 17,
+      "name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "totalStars": "706",
+      "forks": "84",
+      "starsGained": 254,
+      "gainPeriod": "this week"
+    }
+  ]
+}
