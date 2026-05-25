@@ -1,0 +1,186 @@
+{
+  "date": "2026-05-25",
+  "timeframe": "weekly",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "totalStars": "24,287",
+      "forks": "1,335",
+      "starsGained": 18136,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 2,
+      "name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "totalStars": "27,631",
+      "forks": "2,556",
+      "starsGained": 15194,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 3,
+      "name": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "totalStars": "29,700",
+      "forks": "2,471",
+      "starsGained": 9102,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 4,
+      "name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "totalStars": "21,265",
+      "forks": "1,806",
+      "starsGained": 11401,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 5,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "totalStars": "17,941",
+      "forks": "3,069",
+      "starsGained": 6944,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 6,
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "totalStars": "65,721",
+      "forks": "8,688",
+      "starsGained": 6461,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 7,
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "totalStars": "17,700",
+      "forks": "1,448",
+      "starsGained": 6391,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 8,
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "totalStars": "20,779",
+      "forks": "1,646",
+      "starsGained": 6892,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 9,
+      "name": "supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "totalStars": "10,376",
+      "forks": "1,058",
+      "starsGained": 2726,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 10,
+      "name": "can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "totalStars": "7,224",
+      "forks": "583",
+      "starsGained": 2361,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 11,
+      "name": "dograh-hq/dograh",
+      "description": "Open Source Voice Agent Platform",
+      "language": "Python",
+      "totalStars": "2,758",
+      "forks": "615",
+      "starsGained": 1125,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 12,
+      "name": "presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "language": "TypeScript",
+      "totalStars": "6,811",
+      "forks": "1,155",
+      "starsGained": 1684,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 13,
+      "name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "totalStars": "40,282",
+      "forks": "3,799",
+      "starsGained": 4759,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 14,
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "totalStars": "205,958",
+      "forks": "18,350",
+      "starsGained": 10171,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 15,
+      "name": "wechat-article/wechat-article-exporter",
+      "description": "一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。 支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。",
+      "language": "TypeScript",
+      "totalStars": "10,804",
+      "forks": "1,885",
+      "starsGained": 1290,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 16,
+      "name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "totalStars": "775",
+      "forks": "85",
+      "starsGained": 303,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 17,
+      "name": "phodal/routa",
+      "description": "Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/ A2A support across web and desktop.",
+      "language": "TypeScript",
+      "totalStars": "1,383",
+      "forks": "195",
+      "starsGained": 410,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 18,
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "totalStars": "41,665",
+      "forks": "2,649",
+      "starsGained": 1732,
+      "gainPeriod": "this week"
+    }
+  ]
+}
