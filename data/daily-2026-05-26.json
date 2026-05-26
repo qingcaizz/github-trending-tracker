@@ -1,0 +1,146 @@
+{
+  "date": "2026-05-26",
+  "timeframe": "daily",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "totalStars": "34,386",
+      "forks": "2,784",
+      "starsGained": 4721,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 2,
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "totalStars": "193,691",
+      "forks": "29,899",
+      "starsGained": 1912,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 3,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "totalStars": "20,129",
+      "forks": "3,371",
+      "starsGained": 2169,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 4,
+      "name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "totalStars": "16,392",
+      "forks": "1,930",
+      "starsGained": 1698,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 5,
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "totalStars": "9,785",
+      "forks": "1,166",
+      "starsGained": 871,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 6,
+      "name": "hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "language": "",
+      "totalStars": "4,772",
+      "forks": "395",
+      "starsGained": 547,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 7,
+      "name": "Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "totalStars": "20,746",
+      "forks": "1,696",
+      "starsGained": 1440,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 8,
+      "name": "DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "language": "HTML",
+      "totalStars": "166,535",
+      "forks": "3,038",
+      "starsGained": 1127,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 9,
+      "name": "jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend &amp; API",
+      "language": "C#",
+      "totalStars": "52,275",
+      "forks": "4,864",
+      "starsGained": 91,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 10,
+      "name": "Axorax/awesome-free-apps",
+      "description": "Curated list of the best free apps for PC and mobile",
+      "language": "JavaScript",
+      "totalStars": "5,016",
+      "forks": "253",
+      "starsGained": 738,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 11,
+      "name": "twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "totalStars": "46,635",
+      "forks": "6,618",
+      "starsGained": 231,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 12,
+      "name": "Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "totalStars": "11,865",
+      "forks": "1,617",
+      "starsGained": 128,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 13,
+      "name": "thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "totalStars": "78,389",
+      "forks": "6,755",
+      "starsGained": 319,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 14,
+      "name": "st-tech/ppf-contact-solver",
+      "description": "A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.",
+      "language": "Python",
+      "totalStars": "3,317",
+      "forks": "243",
+      "starsGained": 432,
+      "gainPeriod": "today"
+    }
+  ]
+}
