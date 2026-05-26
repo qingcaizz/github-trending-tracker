@@ -1,0 +1,186 @@
+{
+  "date": "2026-05-26",
+  "timeframe": "weekly",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "totalStars": "27,064",
+      "forks": "1,521",
+      "starsGained": 20208,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 2,
+      "name": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "totalStars": "34,386",
+      "forks": "2,784",
+      "starsGained": 14750,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 3,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "totalStars": "20,129",
+      "forks": "3,371",
+      "starsGained": 10035,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 4,
+      "name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "totalStars": "28,170",
+      "forks": "2,617",
+      "starsGained": 11906,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 5,
+      "name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "totalStars": "21,993",
+      "forks": "1,865",
+      "starsGained": 10678,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 6,
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "totalStars": "66,152",
+      "forks": "8,757",
+      "starsGained": 6396,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 7,
+      "name": "HKUDS/ViMax",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "language": "Python",
+      "totalStars": "7,590",
+      "forks": "1,188",
+      "starsGained": 2790,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 8,
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "totalStars": "18,090",
+      "forks": "1,484",
+      "starsGained": 5687,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 9,
+      "name": "can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "totalStars": "7,453",
+      "forks": "601",
+      "starsGained": 2584,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 10,
+      "name": "NVlabs/Sana",
+      "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+      "language": "Python",
+      "totalStars": "7,682",
+      "forks": "587",
+      "starsGained": 1233,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 11,
+      "name": "presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "language": "TypeScript",
+      "totalStars": "7,012",
+      "forks": "1,167",
+      "starsGained": 1787,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 12,
+      "name": "humanlayer/12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "language": "TypeScript",
+      "totalStars": "22,377",
+      "forks": "1,687",
+      "starsGained": 1985,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 13,
+      "name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "totalStars": "16,392",
+      "forks": "1,930",
+      "starsGained": 2666,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 14,
+      "name": "supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "totalStars": "10,587",
+      "forks": "1,090",
+      "starsGained": 2329,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 15,
+      "name": "dograh-hq/dograh",
+      "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
+      "language": "Python",
+      "totalStars": "3,167",
+      "forks": "690",
+      "starsGained": 693,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 16,
+      "name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "totalStars": "40,539",
+      "forks": "3,834",
+      "starsGained": 4010,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 17,
+      "name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "totalStars": "877",
+      "forks": "91",
+      "starsGained": 366,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 18,
+      "name": "dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "totalStars": "3,092",
+      "forks": "227",
+      "starsGained": 1313,
+      "gainPeriod": "this week"
+    }
+  ]
+}
