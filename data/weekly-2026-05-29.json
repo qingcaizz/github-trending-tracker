@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-29",
+  "timeframe": "weekly",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "totalStars": "44,040",
+      "forks": "3,518",
+      "starsGained": 26212,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 2,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "totalStars": "68,813",
+      "forks": "9,926",
+      "starsGained": 7948,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 3,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "totalStars": "24,401",
+      "forks": "3,958",
+      "starsGained": 13159,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 4,
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "totalStars": "32,865",
+      "forks": "1,977",
+      "starsGained": 19128,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 5,
+      "name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "totalStars": "17,973",
+      "forks": "2,109",
+      "starsGained": 5282,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 6,
+      "name": "hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "language": "",
+      "totalStars": "6,777",
+      "forks": "480",
+      "starsGained": 2486,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 7,
+      "name": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "totalStars": "28,556",
+      "forks": "3,045",
+      "starsGained": 6953,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 8,
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "totalStars": "11,873",
+      "forks": "1,339",
+      "starsGained": 4904,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 9,
+      "name": "Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "totalStars": "27,644",
+      "forks": "2,050",
+      "starsGained": 7268,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 10,
+      "name": "presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "language": "TypeScript",
+      "totalStars": "7,422",
+      "forks": "1,191",
+      "starsGained": 1740,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 11,
+      "name": "dograh-hq/dograh",
+      "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
+      "language": "Python",
+      "totalStars": "3,649",
+      "forks": "762",
+      "starsGained": 1062,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 12,
+      "name": "can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "totalStars": "8,414",
+      "forks": "678",
+      "starsGained": 2496,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 13,
+      "name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "totalStars": "1,197",
+      "forks": "105",
+      "starsGained": 629,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 14,
+      "name": "microsoft/agent-governance-toolkit",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "language": "Python",
+      "totalStars": "3,291",
+      "forks": "483",
+      "starsGained": 1375,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 15,
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "totalStars": "198,204",
+      "forks": "30,465",
+      "starsGained": 9363,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 16,
+      "name": "p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "totalStars": "22,367",
+      "forks": "2,375",
+      "starsGained": 1157,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 17,
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "totalStars": "67,940",
+      "forks": "9,020",
+      "starsGained": 4690,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 18,
+      "name": "BenedictKing/ccx",
+      "description": "Claude / Codex / Gemini API Proxy - CCX",
+      "language": "Go",
+      "totalStars": "2,506",
+      "forks": "184",
+      "starsGained": 983,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 19,
+      "name": "HKUDS/ViMax",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "language": "Python",
+      "totalStars": "8,236",
+      "forks": "1,272",
+      "starsGained": 1636,
+      "gainPeriod": "this week"
+    }
+  ]
+}
