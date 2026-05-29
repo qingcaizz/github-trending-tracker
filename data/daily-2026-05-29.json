@@ -1,0 +1,176 @@
+{
+  "date": "2026-05-29",
+  "timeframe": "daily",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "totalStars": "68,813",
+      "forks": "9,926",
+      "starsGained": 3563,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 2,
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "totalStars": "128,962",
+      "forks": "8,841",
+      "starsGained": 1876,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 3,
+      "name": "EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "totalStars": "17,998",
+      "forks": "1,371",
+      "starsGained": 354,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 4,
+      "name": "twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "totalStars": "48,200",
+      "forks": "6,830",
+      "starsGained": 575,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 5,
+      "name": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Python",
+      "totalStars": "127,676",
+      "forks": "20,891",
+      "starsGained": 319,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 6,
+      "name": "Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "totalStars": "27,644",
+      "forks": "2,050",
+      "starsGained": 2066,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 7,
+      "name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "totalStars": "1,197",
+      "forks": "105",
+      "starsGained": 129,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 8,
+      "name": "run-llama/liteparse",
+      "description": "A fast, helpful, and open-source document parser",
+      "language": "Rust",
+      "totalStars": "6,856",
+      "forks": "428",
+      "starsGained": 680,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 9,
+      "name": "galilai-group/stable-worldmodel",
+      "description": "A platform for reproducible world model research and evaluation",
+      "language": "Python",
+      "totalStars": "1,102",
+      "forks": "143",
+      "starsGained": 346,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 10,
+      "name": "byoungd/English-level-up-tips",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "",
+      "totalStars": "49,432",
+      "forks": "5,182",
+      "starsGained": 1564,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 11,
+      "name": "Biohub/esm",
+      "description": "",
+      "language": "Jupyter Notebook",
+      "totalStars": "2,518",
+      "forks": "311",
+      "starsGained": 102,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 12,
+      "name": "Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "totalStars": "26,750",
+      "forks": "2,645",
+      "starsGained": 294,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 13,
+      "name": "DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "language": "HTML",
+      "totalStars": "171,437",
+      "forks": "3,330",
+      "starsGained": 1317,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 14,
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "totalStars": "198,204",
+      "forks": "30,465",
+      "starsGained": 1413,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 15,
+      "name": "hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "language": "",
+      "totalStars": "6,777",
+      "forks": "480",
+      "starsGained": 618,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 16,
+      "name": "DataTalksClub/data-engineering-zoomcamp",
+      "description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
+      "language": "Jupyter Notebook",
+      "totalStars": "41,450",
+      "forks": "8,262",
+      "starsGained": 161,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 17,
+      "name": "codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "totalStars": "507,053",
+      "forks": "48,149",
+      "starsGained": 867,
+      "gainPeriod": "today"
+    }
+  ]
+}
