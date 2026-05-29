@@ -1,0 +1,186 @@
+{
+  "date": "2026-05-29",
+  "timeframe": "monthly",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "totalStars": "32,865",
+      "forks": "1,977",
+      "starsGained": 30718,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 2,
+      "name": "anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "totalStars": "28,630",
+      "forks": "4,019",
+      "starsGained": 20790,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 3,
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "totalStars": "22,288",
+      "forks": "1,778",
+      "starsGained": 20646,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 4,
+      "name": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "totalStars": "44,040",
+      "forks": "3,518",
+      "starsGained": 33147,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 5,
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "totalStars": "19,544",
+      "forks": "1,595",
+      "starsGained": 17217,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 6,
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "totalStars": "111,118",
+      "forks": "9,742",
+      "starsGained": 75448,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 7,
+      "name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "totalStars": "23,753",
+      "forks": "1,974",
+      "starsGained": 19583,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 8,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "totalStars": "24,401",
+      "forks": "3,958",
+      "starsGained": 18067,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 9,
+      "name": "decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "totalStars": "14,996",
+      "forks": "2,250",
+      "starsGained": 11689,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 10,
+      "name": "ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "language": "TypeScript",
+      "totalStars": "56,307",
+      "forks": "6,406",
+      "starsGained": 22670,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 11,
+      "name": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "totalStars": "16,962",
+      "forks": "2,707",
+      "starsGained": 7963,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 12,
+      "name": "bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "totalStars": "35,662",
+      "forks": "3,588",
+      "starsGained": 6182,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 13,
+      "name": "AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "language": "Python",
+      "totalStars": "20,425",
+      "forks": "2,868",
+      "starsGained": 13182,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 14,
+      "name": "soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "totalStars": "30,892",
+      "forks": "2,212",
+      "starsGained": 11082,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 15,
+      "name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "totalStars": "80,602",
+      "forks": "15,689",
+      "starsGained": 26548,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 16,
+      "name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "totalStars": "161,300",
+      "forks": "16,521",
+      "starsGained": 65313,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 17,
+      "name": "1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "totalStars": "6,700",
+      "forks": "751",
+      "starsGained": 6050,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 18,
+      "name": "LearningCircuit/local-deep-research",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.",
+      "language": "Python",
+      "totalStars": "8,139",
+      "forks": "703",
+      "starsGained": 3745,
+      "gainPeriod": "this month"
+    }
+  ]
+}
