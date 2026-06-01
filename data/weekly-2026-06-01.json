@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-01",
+  "timeframe": "weekly",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "description": "利��AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "totalStars": "76,622",
+      "forks": "10,874",
+      "starsGained": 15955,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 2,
+      "name": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "totalStars": "48,577",
+      "forks": "3,942",
+      "starsGained": 22750,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 3,
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "totalStars": "137,603",
+      "forks": "9,389",
+      "starsGained": 9353,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 4,
+      "name": "hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "language": "",
+      "totalStars": "7,953",
+      "forks": "561",
+      "starsGained": 3770,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 5,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "totalStars": "26,633",
+      "forks": "4,329",
+      "starsGained": 10586,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 6,
+      "name": "Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "totalStars": "30,769",
+      "forks": "2,282",
+      "starsGained": 10813,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 7,
+      "name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "totalStars": "18,606",
+      "forks": "2,185",
+      "starsGained": 4944,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 8,
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "totalStars": "36,547",
+      "forks": "2,273",
+      "starsGained": 13925,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 9,
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "totalStars": "13,194",
+      "forks": "1,545",
+      "starsGained": 4896,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 10,
+      "name": "revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "totalStars": "5,048",
+      "forks": "683",
+      "starsGained": 957,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 11,
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "totalStars": "201,853",
+      "forks": "30,958",
+      "starsGained": 10473,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 12,
+      "name": "p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "totalStars": "22,957",
+      "forks": "2,458",
+      "starsGained": 1417,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 13,
+      "name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "totalStars": "1,657",
+      "forks": "132",
+      "starsGained": 882,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 14,
+      "name": "run-llama/liteparse",
+      "description": "A fast, helpful, and open-source document parser",
+      "language": "Rust",
+      "totalStars": "8,636",
+      "forks": "512",
+      "starsGained": 3006,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 15,
+      "name": "microsoft/agent-governance-toolkit",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "language": "Python",
+      "totalStars": "3,656",
+      "forks": "520",
+      "starsGained": 1657,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 16,
+      "name": "Chachamaru127/claude-code-harness",
+      "description": "Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle",
+      "language": "Shell",
+      "totalStars": "2,456",
+      "forks": "242",
+      "starsGained": 997,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 17,
+      "name": "ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "totalStars": "3,641",
+      "forks": "234",
+      "starsGained": 1058,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 18,
+      "name": "EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "totalStars": "19,029",
+      "forks": "1,425",
+      "starsGained": 1500,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 19,
+      "name": "can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "totalStars": "9,361",
+      "forks": "755",
+      "starsGained": 2079,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 20,
+      "name": "iii-hq/iii",
+      "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
+      "language": "Rust",
+      "totalStars": "17,434",
+      "forks": "1,144",
+      "starsGained": 1394,
+      "gainPeriod": "this week"
+    }
+  ]
+}
