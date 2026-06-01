@@ -1,0 +1,176 @@
+{
+  "date": "2026-06-01",
+  "timeframe": "monthly",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "Hmbown/CodeWhale",
+      "description": "DeepSeek + MiMo coding agent in terminal",
+      "language": "Rust",
+      "totalStars": "36,415",
+      "forks": "3,137",
+      "starsGained": 36183,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 2,
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "totalStars": "36,547",
+      "forks": "2,273",
+      "starsGained": 34446,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 3,
+      "name": "anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "totalStars": "29,246",
+      "forks": "4,098",
+      "starsGained": 21308,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 4,
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "totalStars": "23,091",
+      "forks": "1,835",
+      "starsGained": 21400,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 5,
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "totalStars": "20,451",
+      "forks": "1,685",
+      "starsGained": 18071,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 6,
+      "name": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "totalStars": "48,577",
+      "forks": "3,942",
+      "starsGained": 37390,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 7,
+      "name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "totalStars": "25,657",
+      "forks": "2,115",
+      "starsGained": 21119,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 8,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "totalStars": "26,633",
+      "forks": "4,329",
+      "starsGained": 19640,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 9,
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "totalStars": "113,969",
+      "forks": "9,981",
+      "starsGained": 65737,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 10,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "totalStars": "76,622",
+      "forks": "10,874",
+      "starsGained": 16993,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 11,
+      "name": "decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "totalStars": "15,685",
+      "forks": "2,359",
+      "starsGained": 12051,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 12,
+      "name": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "totalStars": "17,319",
+      "forks": "2,752",
+      "starsGained": 8241,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 13,
+      "name": "bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "totalStars": "35,858",
+      "forks": "3,607",
+      "starsGained": 6370,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 14,
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "totalStars": "69,801",
+      "forks": "9,331",
+      "starsGained": 18955,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 15,
+      "name": "AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "language": "Python",
+      "totalStars": "20,854",
+      "forks": "2,918",
+      "starsGained": 12581,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 16,
+      "name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "totalStars": "164,556",
+      "forks": "16,854",
+      "starsGained": 62506,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 17,
+      "name": "ruvnet/ruflo",
+      "description": "🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "language": "TypeScript",
+      "totalStars": "57,206",
+      "forks": "6,517",
+      "starsGained": 23191,
+      "gainPeriod": "this month"
+    }
+  ]
+}
