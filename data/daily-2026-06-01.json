@@ -1,0 +1,176 @@
+{
+  "date": "2026-06-01",
+  "timeframe": "daily",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "totalStars": "137,603",
+      "forks": "9,389",
+      "starsGained": 3086,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 2,
+      "name": "nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "language": "Python",
+      "totalStars": "10,868",
+      "forks": "1,434",
+      "starsGained": 984,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 3,
+      "name": "supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "totalStars": "23,819",
+      "forks": "2,140",
+      "starsGained": 660,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 4,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "totalStars": "76,622",
+      "forks": "10,874",
+      "starsGained": 3325,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 5,
+      "name": "D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "language": "Python",
+      "totalStars": "57,766",
+      "forks": "5,612",
+      "starsGained": 1475,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 6,
+      "name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "totalStars": "32,472",
+      "forks": "1,770",
+      "starsGained": 612,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 7,
+      "name": "p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "totalStars": "22,957",
+      "forks": "2,458",
+      "starsGained": 241,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 8,
+      "name": "EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "totalStars": "19,029",
+      "forks": "1,425",
+      "starsGained": 428,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 9,
+      "name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "totalStars": "81,598",
+      "forks": "15,874",
+      "starsGained": 284,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 10,
+      "name": "revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "totalStars": "5,048",
+      "forks": "683",
+      "starsGained": 527,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 11,
+      "name": "godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "language": "C++",
+      "totalStars": "111,554",
+      "forks": "25,499",
+      "starsGained": 121,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 12,
+      "name": "can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "totalStars": "9,361",
+      "forks": "755",
+      "starsGained": 333,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 13,
+      "name": "OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "totalStars": "24,112",
+      "forks": "2,778",
+      "starsGained": 880,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 14,
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "language": "Jupyter Notebook",
+      "totalStars": "3,570",
+      "forks": "502",
+      "starsGained": 860,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 15,
+      "name": "stefan-jansen/machine-learning-for-trading",
+      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+      "language": "Jupyter Notebook",
+      "totalStars": "17,719",
+      "forks": "5,176",
+      "starsGained": 82,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 16,
+      "name": "dmtrKovalenko/fff",
+      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "language": "Rust",
+      "totalStars": "7,074",
+      "forks": "297",
+      "starsGained": 121,
+      "gainPeriod": "today"
+    },
+    {
+      "rank": 17,
+      "name": "codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "totalStars": "510,147",
+      "forks": "48,377",
+      "starsGained": 1194,
+      "gainPeriod": "today"
+    }
+  ]
+}
