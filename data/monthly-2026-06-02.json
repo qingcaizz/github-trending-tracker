@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-02",
+  "timeframe": "monthly",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "totalStars": "37,736",
+      "forks": "2,335",
+      "starsGained": 35822,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 2,
+      "name": "Hmbown/CodeWhale",
+      "description": "DeepSeek + MiMo coding agent in terminal",
+      "language": "Rust",
+      "totalStars": "36,661",
+      "forks": "3,151",
+      "starsGained": 35709,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 3,
+      "name": "anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "totalStars": "29,447",
+      "forks": "4,122",
+      "starsGained": 21528,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 4,
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "totalStars": "23,335",
+      "forks": "1,848",
+      "starsGained": 21656,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 5,
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "totalStars": "20,703",
+      "forks": "1,704",
+      "starsGained": 18378,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 6,
+      "name": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "totalStars": "49,863",
+      "forks": "4,063",
+      "starsGained": 38958,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 7,
+      "name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "totalStars": "26,135",
+      "forks": "2,150",
+      "starsGained": 21719,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 8,
+      "name": "fathah/hermes-desktop",
+      "description": "Desktop Companion for Hermes Agent",
+      "language": "TypeScript",
+      "totalStars": "9,324",
+      "forks": "1,133",
+      "starsGained": 8514,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 9,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "totalStars": "77,800",
+      "forks": "11,036",
+      "starsGained": 20221,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 10,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "totalStars": "27,228",
+      "forks": "4,423",
+      "starsGained": 20541,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 11,
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "totalStars": "114,991",
+      "forks": "10,069",
+      "starsGained": 63283,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 12,
+      "name": "decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "totalStars": "15,913",
+      "forks": "2,391",
+      "starsGained": 12304,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 13,
+      "name": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "totalStars": "17,493",
+      "forks": "2,767",
+      "starsGained": 8335,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 14,
+      "name": "bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "totalStars": "35,932",
+      "forks": "3,616",
+      "starsGained": 6426,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 15,
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "totalStars": "70,104",
+      "forks": "9,373",
+      "starsGained": 19186,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 16,
+      "name": "datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "language": "JavaScript",
+      "totalStars": "15,629",
+      "forks": "1,487",
+      "starsGained": 8215,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 17,
+      "name": "can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "totalStars": "9,904",
+      "forks": "808",
+      "starsGained": 5666,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 18,
+      "name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "totalStars": "165,653",
+      "forks": "16,943",
+      "starsGained": 61554,
+      "gainPeriod": "this month"
+    },
+    {
+      "rank": 19,
+      "name": "AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "language": "Python",
+      "totalStars": "21,033",
+      "forks": "2,929",
+      "starsGained": 12448,
+      "gainPeriod": "this month"
+    }
+  ]
+}
