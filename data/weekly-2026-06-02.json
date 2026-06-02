@@ -1,0 +1,216 @@
+{
+  "date": "2026-06-02",
+  "timeframe": "weekly",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "totalStars": "77,800",
+      "forks": "11,036",
+      "starsGained": 18917,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 2,
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "totalStars": "140,688",
+      "forks": "9,576",
+      "starsGained": 11962,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 3,
+      "name": "chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "totalStars": "5,421",
+      "forks": "400",
+      "starsGained": 1868,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 4,
+      "name": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "totalStars": "49,863",
+      "forks": "4,063",
+      "starsGained": 19223,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 5,
+      "name": "hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "language": "",
+      "totalStars": "8,204",
+      "forks": "573",
+      "starsGained": 3770,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 6,
+      "name": "Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "totalStars": "31,574",
+      "forks": "2,325",
+      "starsGained": 11474,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 7,
+      "name": "revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "totalStars": "5,452",
+      "forks": "720",
+      "starsGained": 1430,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 8,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "totalStars": "27,228",
+      "forks": "4,423",
+      "starsGained": 8744,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 9,
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "totalStars": "37,736",
+      "forks": "2,335",
+      "starsGained": 12380,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 10,
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "totalStars": "13,486",
+      "forks": "1,576",
+      "starsGained": 4330,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 11,
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "totalStars": "203,240",
+      "forks": "31,177",
+      "starsGained": 10309,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 12,
+      "name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "totalStars": "1,710",
+      "forks": "135",
+      "starsGained": 879,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 13,
+      "name": "EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "totalStars": "19,324",
+      "forks": "1,437",
+      "starsGained": 1831,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 14,
+      "name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "totalStars": "18,798",
+      "forks": "2,202",
+      "starsGained": 3981,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 15,
+      "name": "microsoft/agent-governance-toolkit",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "language": "Python",
+      "totalStars": "3,765",
+      "forks": "532",
+      "starsGained": 1529,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 16,
+      "name": "p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "totalStars": "23,244",
+      "forks": "2,486",
+      "starsGained": 1601,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 17,
+      "name": "Chachamaru127/claude-code-harness",
+      "description": "Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle",
+      "language": "Shell",
+      "totalStars": "2,518",
+      "forks": "241",
+      "starsGained": 964,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 18,
+      "name": "ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "totalStars": "3,813",
+      "forks": "244",
+      "starsGained": 1206,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 19,
+      "name": "supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "totalStars": "24,457",
+      "forks": "2,166",
+      "starsGained": 1154,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 20,
+      "name": "iii-hq/iii",
+      "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
+      "language": "Rust",
+      "totalStars": "17,513",
+      "forks": "1,153",
+      "starsGained": 1461,
+      "gainPeriod": "this week"
+    },
+    {
+      "rank": 21,
+      "name": "modelscope/FunASR",
+      "description": "Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emotion detection, streaming, and OpenAI-compatible API.",
+      "language": "Python",
+      "totalStars": "16,856",
+      "forks": "1,728",
+      "starsGained": 510,
+      "gainPeriod": "this week"
+    }
+  ]
+}
